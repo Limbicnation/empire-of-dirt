@@ -1,5 +1,5 @@
 # empire-of-dirt
 Realtime rendering
 
-![Image description](/blob/master/eod.jpg)
+![](https://github.com/Limbicnation/empire-of-dirt/blob/master/eod.jpg)
 
